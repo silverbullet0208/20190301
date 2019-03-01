@@ -1,0 +1,53 @@
+#content{
+	width: 5.5rem;
+	height: 9.6rem;
+	margin: 1.9rem auto;
+	background-color: #000000;
+}
+#content .close{
+	margin-left: 4.6rem;
+	width: 0.9rem;
+	height: 0.23rem;
+}
+#content .close .close1{
+	width: 0.5rem;
+	float: left;
+	margin-right: 22%;
+}
+#content .close2{
+	width: 0.19rem;
+	float: left;
+	margin-top: 0.02rem;
+}
+#content ul{
+	width: 100%;
+	height: 94%;
+	overflow: hidden;
+	margin-top: 6%;
+}
+#content ul li{
+	width: 100%;
+	margin-bottom: 0.5rem;
+	background-image: url(../img/3-5.png);
+	background-size: cover;
+	height: 2.68rem;
+	background-repeat: no-repeat;
+}
+#content ul li .play{
+	width: 0.64rem;
+	height: 0.64rem;
+	margin: 0 auto;
+	padding-top: 1rem;
+}
+#content ul li .info{
+	margin-left: 0.35rem;
+	margin-top: 0.2rem;
+}
+#content ul li .infoName1{
+	width: 1.1rem;
+	height: 0.2re,;
+}
+#content ul li .infoName2{
+	width: 1.35rem;
+	height: 0.28rem;
+}

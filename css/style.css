@@ -1,0 +1,35 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, tt, var,
+dl, dt, dd, ol, ul, li, object,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, ul, li a{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+    list-style: none;
+    word-break : normal;
+    color: inherit;
+    font-family: Arial,'黑体';
+}
+ol, ul {
+    list-style: none;
+}
+
+img {
+    width: 100%;
+    display: block
+}
+a{text-decoration: none}
+ng-center{display: block}
+
+
+
+
